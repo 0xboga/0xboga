@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 ## Check out my portfolio.
-Under construction
+Website is under construction. Coming soon !
 <!-- <a href="https://0xfps.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0xfps-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
 <br/> -->
 
