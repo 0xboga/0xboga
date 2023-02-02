@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🧠 Blockchain and Full-Stack Engineer
 
-📝 My projects include Smart Contracts, NFTs, ERC-20 tokens and more, beside alot of backend and frontend stuff.
+📝 My projects include Smart Contracts and extensive experience in both backend and frontend development.
 
 👨🏼‍🏫 Always ready to learn.
 <br/>
